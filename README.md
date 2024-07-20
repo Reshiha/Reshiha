@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reshiha RG</h1>
 <h3 align="center">I’m a passionate software developer with a strong background in computer science and a keen interest in Machine Learning,distributed systems, network security, and data analysis. I enjoy working with various programming languages and tools to solve complex problems and build innovative solutions.</h3>
 
-- 🌱 I’m currently learning **Network Security, Deep Learning nad Neural Networks,Evolutionary Computing**
+- 🌱 I’m currently learning **Network Security, Deep Learning and Neural Networks,Evolutionary Computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Reshiha](https://github.com/Reshiha)
 
